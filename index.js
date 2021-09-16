@@ -264,6 +264,20 @@ function registerProtocolHandlers () {
   })
 }
 
+	/**	
+ * Lock the user's pointer, without even being in full screen!	
+ * Require user-initiated event.	
+ */	
+function requestPointerLock () {	
+  const requestPointerLockApi = (	
+    document.body.requestPointerLock ||	
+    document.body.webkitRequestPointerLock ||	
+    document.body.mozRequestPointerLock ||	
+    document.body.msRequestPointerLock	
+  )	
+  requestPointerLockApi.call(document.body)	
+}
+
 /**
  * Attempt to access the user's camera and microphone, and attempt to enable the
  * torch (i.e. camera flash) if the device has one.
@@ -944,4 +958,4 @@ function setupSearchWindow (win) {
       searchIndex += 1
     }, 500)
   }, 2500)
-    }
+}
