@@ -1,8 +1,14 @@
+[Link To Site (dtzrc.datazi.repl.co)](https://dtzrc.datazi.repl.co)
+
 # DTZRC
-Just a of remake of website (TheAnnoyingSitecom) with less harmful version.
+This project is less harmful version of [TheAnnoyingSite](https://www.TheAnnoyingSite.com)
 
 # WARNING
-This site is vey annoying
+This version is not as harmful as [TheAnnoyingSite](https://www.TheAnnoyingSite.com) but this version still does lot of things.
 
-# CREDITS
-Feross For TheAnnoyingSite.com
+Use at your own risk.
+
+# ORGINAL CREDITS
+[Feross](https://www.github.com/feross/) For making TheAnnoyingSite.
+
+[Horion](https://github.com/horionclient/) For the css style.
