@@ -1,6 +1,6 @@
 /**
  * Made By Datz © 2021
- * 
+ */
 
 
 const SCREEN_WIDTH = window.screen.availWidth
