@@ -1,3 +1,8 @@
+/**
+ * Made By Datz © 2021
+ * 
+
+
 const SCREEN_WIDTH = window.screen.availWidth
 const SCREEN_HEIGHT = window.screen.availHeight
 const WIN_WIDTH = 480
@@ -26,7 +31,6 @@ const VIDEOS = [
 
 const FILE_DOWNLOADS = [
   'banner.png'
-
 ]
 
 const PHRASES = [
